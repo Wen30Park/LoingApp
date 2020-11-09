@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login_Firebase</string>
+
+    <string name="label_login">No account yet? <i><u>Create one</u></i></string>
+    <string name="label_olvidada_contraseña"><i><u>Forgot your password?</u></i></string>
+    <string name="label_registro">Already have an account? <i><u>Login</u></i></string>
+    <string name="label_contraseña"><i><u>I just remembered it</u></i></string>
+    <string name="label_titulo_contraseña">¿Ha olvidado su contraseña?</string>
+    <string name="label_descripcion_contraseña">Necesitamos su correo electronico
+        registrado para enviar las intrucciones de restablecimiento de la contraseña</string>
+    <string name="label_descripcion_registro">Debe introducir una cuenta de correo válida,
+        sino no podrá reestablecer la contraseña en caso de no recordarla</string>
+    <string name="error_login">Error al iniciar sesion</string>
+    <string name="error_autenticacion">Usuario o contraseña incorrectos</string>
+    <string name="error_autenticacion_usuario">Usuario o contraseña incorrectos</string>
+
+    <string name="email_introducir">Introduce un email</string>
+    <string name="pass_introducir">Introduce una contraseña</string>
+    <string name="pass_longitud">La contraseña debe tener mas de 6 caracteres</string>
+    <string name="dialog_sesion">Iniciando sesion...</string>
+    <string name="error_conexion">Comprueba la conexion</string>
+</resources>

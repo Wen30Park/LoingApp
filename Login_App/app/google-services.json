@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "661496261496",
+    "firebase_url": "https://loginfirebase-f8090.firebaseio.com",
+    "project_id": "loginfirebase-f8090",
+    "storage_bucket": "loginfirebase-f8090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661496261496:android:44166b06983426ff",
+        "android_client_info": {
+          "package_name": "com.albrivas.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661496261496-4pmh6744j770k63krb48fmp62vamu8gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.albrivas.login_firebase",
+            "certificate_hash": "9af183457a0e28caa3a91953443c187eb0d402c1"
+          }
+        },
+        {
+          "client_id": "661496261496-s4fneqcccbdg1u0f2mm716he80gvtqsa.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "661496261496-s4fneqcccbdg1u0f2mm716he80gvtqsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzA31e-9k5KcViSgF7TVSa5KetXm66ND8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661496261496-s4fneqcccbdg1u0f2mm716he80gvtqsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661496261496:android:243f1c2b3752150d",
+        "android_client_info": {
+          "package_name": "es.wordpress.albrivasblog.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661496261496-i5msrjf1v1a59rq6slaf4rps9rajegir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.wordpress.albrivasblog.login_firebase",
+            "certificate_hash": "9af183457a0e28caa3a91953443c187eb0d402c1"
+          }
+        },
+        {
+          "client_id": "661496261496-s4fneqcccbdg1u0f2mm716he80gvtqsa.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "661496261496-s4fneqcccbdg1u0f2mm716he80gvtqsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzA31e-9k5KcViSgF7TVSa5KetXm66ND8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661496261496-s4fneqcccbdg1u0f2mm716he80gvtqsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
